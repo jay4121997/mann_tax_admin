@@ -1,0 +1,39 @@
+{
+    "home":{
+        "about":"text aavse",
+        "ourservice":
+                    [{
+                        "title":"titleText",
+                        "description":"description"
+                    },{},{},{}]
+    },
+    "about":{
+        "title":"titleText",
+        "description":"description"
+    },
+    "services":[{
+        "imageurl":"URL",
+        "title":"titleText",
+        "subtitle":"subtitle",
+        "description":"description",
+        "bulletpoints":["",""]
+    },{},{}],
+    "documentChecklist":[{
+        "title":"titleText",
+        "checklist":["","",""]
+    },{},{}],
+    "samples":[{
+        "title":"titleText",
+        "link":"URL"
+    },{},{},{}]
+    // "contact":{
+    //     "address":"address",
+    //     "number":"phone",
+    //     "email":"email",
+    //     "mapUrl":"URL",
+    //     "additionalDate":"additionalDate",
+    //     "regHours1":"regHours1",
+    //     "regHours2":"regHours2",
+    //     "additionalHour":{}
+    // }
+}

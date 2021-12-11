@@ -1,0 +1,6 @@
+.fields{
+    display: flex;
+    flex-flow: column;
+    text-align: left;
+    justify-content: flex-start;
+}

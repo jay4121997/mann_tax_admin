@@ -1,0 +1,26 @@
+.inputField{
+    margin: 20px 0 ;
+    padding: 10px 30%;
+}
+.inputField input{
+    line-height: 200%;
+    width: 100%;
+    font-size: 20px;
+    border-radius: 5px;
+    outline: none;
+    border: 3px solid #ccc;
+}
+.inputField input:focus{
+    border: 3px solid green;
+    outline: none;
+}
+.inputField label{
+    display: block;
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.inputField p{
+    font-size: 14px;
+    font-weight: bold;
+}

@@ -1,0 +1,33 @@
+
+.card{
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: 5px solid teal;
+    /* padding: 10px 30px; */
+    padding: 25px;
+    text-align: center;
+    border-radius: 10px;
+}
+.buttons{
+    display: flex;
+    justify-content:space-between;
+}
+
+.delete,.update{
+    font-size: 20px;
+    background-color: maroon;
+    border: none;
+    outline: none;
+    padding: 10px 30px;
+    color: white;
+    border-radius: 999px;
+    margin: 5px;
+}
+.update{
+    background-color: teal;
+}
+.card h1{
+    text-transform: uppercase;
+    text-align: center;
+}
